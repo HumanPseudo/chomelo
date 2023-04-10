@@ -15,7 +15,7 @@ const Hero = () => {
           <h1 className="text-4xl lg:text-6xl">
             Hi, <br />I am <span className="text-accent">D</span>avid
             <br />
-            Artist-Enginer
+            Artist-Engineer
           </h1>
 
           <p className="py-5">
