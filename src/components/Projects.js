@@ -11,7 +11,7 @@ const Projects = () => {
       title: "Cabra Ahumada",
       comp1: "Ingredientes: ",
       comp2: "- 30 Ml Vodka infusionado con lavanda y clitoria",
-      // comp3: " Cabra Ahumada:",
+      comp3: " Cabra Ahumada:",
       comp4: "- 30 Ml Whisky infusionado con mango pimienta negra y aniz estrella",
       comp5: " - 30 Ml de cirope de gengibre",
       comp6: "- completar con cerveza canabica",
@@ -65,14 +65,14 @@ const Projects = () => {
               <img src={project.img} alt={project.title} />
               <div className="flex absolute left-0 right-0 top-[13px] bottom-0 mx-auto w-[90%] h-[90%]  bg-primary  opacity-0 duration-500 justify-center flex-col hover:opacity-100 ">
                 <p className="py-5 text-center font-bold px-2 text-white">
+                <p>
+                  {project.comp3}
+                </p>
                   {project.comp1}
                 <p>
                 <p>
                   {project.comp2}
                 </p>  
-                {/* <p>
-                  {project.comp3}
-                </p>   */}
                 <p>
                   {project.comp4}
                 </p>  
