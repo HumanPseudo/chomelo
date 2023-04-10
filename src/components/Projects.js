@@ -11,7 +11,7 @@ const Projects = () => {
       title: "Cabra Ahumada",
       comp1: "Ingredientes: ",
       comp2: "- 30 Ml Vodka infusionado con lavanda y clitoria",
-      comp3: " Cabra Ahumada:",
+      // comp3: " Cabra Ahumada:",
       comp4: "- 30 Ml Whisky infusionado con mango pimienta negra y aniz estrella",
       comp5: " - 30 Ml de cirope de gengibre",
       comp6: "- completar con cerveza canabica",
@@ -70,9 +70,9 @@ const Projects = () => {
                 <p>
                   {project.comp2}
                 </p>  
-                <p>
+                {/* <p>
                   {project.comp3}
-                </p>  
+                </p>   */}
                 <p>
                   {project.comp4}
                 </p>  
