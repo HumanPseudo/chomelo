@@ -11,21 +11,29 @@ const About = () => {
           </h2>
 
           <p className="pb-5">
-            Hi, My Name Is Rohima Akther everyone calls me Amrin. I am a
-            Frontend Developer. I build beautifull websites with React and
-            Tailwind CSS.
+            Hi everyone, welcome to my blog! My name is David and I'm a music
+            artist, music producer, systems engineer, barman, and barista. Yes,
+            you read that right. I wear many hats and I love them all. I started
+            making music when I was a kid, playing the guitar and singing in the
+            choir so I decided to study music production in college.
           </p>
           <p className="pb-5">
-            I am proficient in Frontend skills like React.js, Redux, Redux Tool
-            Kit, Axios, Tailwind CSS, SaSS, Css3 and many more.
+            I studied systems engineering in college as well, Actually I'm
+            working as a systems engineer for a large company, where I help them
+            solve technical problems. I also love
+            working with people and making them happy. That's why I have two
+            jobs as a barman and a barista. I enjoy both jobs because they allow
+            me to interact with different kinds of people and learn new things.
+            Thank you for reading and stay tuned for more updates on my life as
+            a human
           </p>
 
-          <p>In backend I know Node.js, Express.js, MongoDB, and Mongoose</p>
+          {/* <p>In backend I know Node.js, Express.js, MongoDB, and Mongoose</p> */}
 
-          <p>
+          {/* <p>
             In my spare time I create YouTube videos and write blogs on my Blog.
             Where I talk about programming theory and build various projects.
-          </p>
+          </p> */}
         </div>
 
         <div className="about-img">
