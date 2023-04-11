@@ -8,8 +8,8 @@ const Contact = () => {
           Contact Me
         </h2>
         <p>
-          I am currently open for a proposals. If you
-          want to discuss about that something free to email me or call me.
+          Actualmente estoy abierto a propuestas. Si quieres discutir algo, no
+          dudes en enviarme un correo electrónico o llamarme.
         </p>
 
         <p className="py-2">

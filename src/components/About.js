@@ -11,21 +11,21 @@ const About = () => {
           </h2>
 
           <p className="pb-5">
-            Hi everyone, welcome to my blog! My name is David and I'm a music
-            artist, music producer, systems engineer, barman, and barista. Yes,
-            you read that right. I wear many hats and I love them all. I started
-            making music when I was a kid, playing the guitar and singing in the
-            choir so I decided to study music production in college.
+            Hola a todos, ¡bienvenidos a mi blog! Mi nombre es David y soy un
+            artista musical, productor musical, ingeniero de sistemas, barman y
+            barista. Sí, has leído bien. Tengo muchos roles y me encantan todos.
+            Comencé a hacer música cuando era niño, tocando la guitarra y
+            cantando en el coro, así que decidí estudiar producción musical en
+            la universidad.
           </p>
           <p className="pb-5">
-            I studied systems engineering in college as well, Actually I'm
-            working as a systems engineer for a large company, where I help them
-            solve technical problems. I also love
-            working with people and making them happy. That's why I have two
-            jobs as a barman and a barista. I enjoy both jobs because they allow
-            me to interact with different kinds of people and learn new things.
-            Thank you for reading and stay tuned for more updates on my life as
-            a human
+            También estudié ingeniería de sistemas en la universidad.
+            Actualmente trabajo como ingeniero de sistemas para una gran
+            empresa, donde les ayudo a resolver problemas técnicos. También me
+            encanta trabajar con personas y hacerlas felices. Disfruto mis trabajos
+            porque me permiten interactuar con diferentes tipos de personas y
+            aprender cosas nuevas. Gracias por leer y manténganse atentos para
+            más actualizaciones sobre mi vida como ser humano.
           </p>
 
           {/* <p>In backend I know Node.js, Express.js, MongoDB, and Mongoose</p> */}

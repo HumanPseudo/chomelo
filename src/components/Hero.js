@@ -13,14 +13,13 @@ const Hero = () => {
       <div className="container mx-auto grid md:grid-cols-2 items-center justify-center md:justify-between">
         <div className="hero-info pb-5 md:pb-0">
           <h1 className="text-4xl lg:text-6xl">
-            Hi, <br />I am <span className="text-accent">D</span>avid
+            Hola, <br />soy <span className="text-accent">D</span>avid
             <br />
-            Artist-Engineer
+            Artista-Ingeniero
           </h1>
 
           <p className="py-5">
-            “Sometimes I wish I was a cloud... Just floating along, going
-            wherever the breeze takes me.” ― Masashi Kishimoto
+          “A veces desearía ser una nube… Simplemente flotando, yendo a donde quiera que me lleve la brisa.” ― Masashi Kishimoto
           </p>
 
           <div className="flex py-5 ">
