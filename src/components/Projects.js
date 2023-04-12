@@ -11,9 +11,10 @@ const Projects = () => {
       title: "Cabra Ahumada",
       comp1: "Ingredientes: ",
       comp2: "- 30 Ml Ron blanco infusionado con lavanda y clitoria",
-      comp3: " Cabra Ahumada:",
+      // comp3: " Cabra Ahumada:",
       comp4: "- 30 Ml Whisky infusionado con mango pimienta negra y aniz estrella",
-      comp5: " - 30 Ml de cirope de gengibre",
+      comp5: "- 30 Ml de cirope de gengibre",
+      comp7: "- 2 barspoons de Mermelada de fresa",
       comp6: "- completar con cerveza canabica",
       preparacion:"Metodo de preparacion: Agitado o Refrescado",
       cristaleria: "Cristaleria: Vaso Alto o Vaso Pilsner"
@@ -79,6 +80,9 @@ const Projects = () => {
                 <p>
                   {project.comp5}
                 </p>  
+                <p>
+                  {project.comp7}
+                </p>
                 <p>
                   {project.comp6}
                 </p>  
