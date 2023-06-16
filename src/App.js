@@ -9,13 +9,12 @@ import { Routes, Route } from "react-router-dom";
 function App() {
   return (
     <>
-      <Header />
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/blog" element={<BlogArchive />} />
-      </Routes>
-
-      <Footer />
+      {/* <Header /> */}
+      <div className="App">
+      <h1>Estamos en construcción</h1>
+      <p>¡Pronto estaremos de vuelta! 🍫</p>
+      </div>
+      {/* <Footer /> */}
     </>
   );
 }

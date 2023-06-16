@@ -4,6 +4,7 @@ import About from "../components/About";
 import Projects from "../components/Projects";
 import Blog from "../components/Blog";
 import Contact from "../components/Contact";
+import Cafe from "../components/Cafe";
 
 const Home = () => {
   return (
@@ -11,7 +12,8 @@ const Home = () => {
       <Hero />
       <About />
       <Projects />
-      <Blog />
+      <Cafe />
+      {/* <Blog /> */}
       <Contact />
     </>
   );

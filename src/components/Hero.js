@@ -13,33 +13,32 @@ const Hero = () => {
       <div className="container mx-auto grid md:grid-cols-2 items-center justify-center md:justify-between">
         <div className="hero-info pb-5 md:pb-0">
           <h1 className="text-4xl lg:text-6xl">
-            Hi, <br />I am <span className="text-accent">D</span>avid
+            Hola, <br />soy <span className="text-accent">D</span>avid
             <br />
-            Artist-Enginer
+            Artista-Ingeniero
           </h1>
 
           <p className="py-5">
-            “Sometimes I wish I was a cloud... Just floating along, going
-            wherever the breeze takes me.” ― Masashi Kishimoto
+          “A veces desearía ser una nube… Simplemente flotando, yendo a donde quiera que me lleve la brisa.” ― Masashi Kishimoto
           </p>
 
           <div className="flex py-5 ">
             <a
-              href="https://twitter.com/CoderAmrin"
+              href="https://twitter.com/"
               className="pr-4 inline-block text-accent hover:text-white"
             >
               {" "}
               <AiOutlineTwitter size={40} />{" "}
             </a>
             <a
-              href="https://www.youtube.com/@coderamrin"
+              href="https://www.youtube.com/"
               className="pr-4 inline-block text-accent hover:text-white"
             >
               {" "}
               <AiOutlineYoutube size={40} />{" "}
             </a>
             <a
-              href="https://www.facebook.com/CoderAmrin/"
+              href="https://www.facebook.com/D.PseudoHuman"
               className="pr-4 inline-block text-accent hover:text-white"
             >
               {" "}
